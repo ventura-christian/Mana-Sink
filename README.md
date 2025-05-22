@@ -1,6 +1,6 @@
-# 🧙‍♂️ MTG Deck Tracker
+# 🧙‍♂️ MTG Deck Tracker - Mana Sink 
 
-Welcome to **MTG Deck Tracker** — a lightweight, browser-based tool designed for Magic: The Gathering players who want a clean, focused way to track, organize, and explore their decks. Whether you're brewing a spicy Commander list or tuning a Standard meta-breaker, this tool is your first step into a smarter battlefield.
+Welcome to **Mana Sink** — a lightweight, browser-based tool designed for Magic: The Gathering players who want a clean, focused way to track, organize, and explore their decks. Whether you're brewing a spicy Commander list or tuning a Standard meta-breaker, this tool is your first step into a smarter battlefield.
 
 ---
 
@@ -16,7 +16,7 @@ Welcome to **MTG Deck Tracker** — a lightweight, browser-based tool designed f
 
 ## 🚀 Why This Exists
 
-As a developer and Magic enthusiast, I wanted to create a hands-on project that brings **web development fundamentals** to life through something I love — Magic: The Gathering. This project is built from the ground up to reinforce core full-stack dev skills while solving a real, personal problem: deck clutter.
+As a developer and Magic the Gathering enthusiast, I wanted to create a hands-on project that brings **web development fundamentals** to life through a game I thoroughly enjoy. This project is built from the ground up to reinforce core full-stack dev skills while solving a real, personal problem: deck clutter, organization, and creation.
 
 ---
 
